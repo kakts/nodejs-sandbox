@@ -43,7 +43,7 @@ const cPromise = new Promise((resolve) => {
   resolve(100);
 });
 
-bPromise.then((value) => {
+cPromise.then((value) => {
   console.log('----then1', value);
   return value * 2;
 }).then((value) => {
