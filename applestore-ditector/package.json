@@ -1,0 +1,10 @@
+{
+  "name": "appstore-info",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "parse5": "^5.0.0",
+    "puppeteer": "^1.5.0"
+  }
+}
